@@ -24,3 +24,5 @@ message_to_candidate = (
 )
 
 print(message_to_candidate)
+
+#checking if gitignore works
